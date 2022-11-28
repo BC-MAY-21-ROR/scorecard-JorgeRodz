@@ -2,8 +2,8 @@
 
 # Site Settings
 title: BrightCoders Academy
-url: '' #'http://webjeda.com'
-baseurl: '' #change it according to your repository name
+url: "" #'http://webjeda.com'
+baseurl: "https://bc-may-21-ror.github.io/scorecard-JorgeRodz/" #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # NO modificar
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
@@ -17,7 +17,7 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
-encoding: 'utf-8'
+encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
