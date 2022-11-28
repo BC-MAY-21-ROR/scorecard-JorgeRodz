@@ -14,9 +14,9 @@ sidebar:
   # Actualiza tus datos de contacto
   email: jarf4321@gmail.com
   phone: +52 312 943 57 76
-  website: https://jarf-portfolio.netlify.app/
-  linkedin: https://www.linkedin.com/in/jarf4321/
-  github: https://github.com/JorgeRodz
+  website: jarf-portfolio.netlify.app/
+  linkedin: jarf4321
+  github: JorgeRodz
   gitlab:
   bitbucket:
   twitter: "@JarfDev"
@@ -99,7 +99,7 @@ projects:
       tagline: "Forkify is a recipe search engine in which you just type the name or part of the name of the dessert you wanted to cook and a list of recipes will show up. In this project, I used vanilla JS to consume an API and display the results according to the searched recipe."
 
     - title: Guess the number
-      link: "#"
+      link: "guess-n.netlify.app/"
       tagline: "This is a fun one, in this game you have to guess a number between 0 and 50, and you have unlimited tries. This game was with vanilla JS. Can you guess the number? "
 
     - title: Alpha Blog
