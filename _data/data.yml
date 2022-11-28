@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Juan Ramon Guzman Aguilar # Nombre completo
+  name: Jorge Alberto Rodriguez Flores # Nombre y apellido
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: ramon.guzman@magmalabs.io
-  phone: 314-142-28-86
-  website: juanequex.github.io
-  linkedin: Juan Ramon Guzman Aguilar
-  github: Juanequex
+  email: jarf4321@gmail.com
+  phone: +52 312 943 57 76
+  website: https://jarf-portfolio.netlify.app/
+  linkedin: https://www.linkedin.com/in/jarf4321/
+  github: https://github.com/JorgeRodz
   gitlab:
   bitbucket:
-  twitter: "@Juanequex"
+  twitter: "@JarfDev"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,83 +27,84 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Creativity
+    - item: Communication
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Conflict Resolution
+    - item: Time Management
       link: # dejar en blanco
 
     - item: Self-taught
       link: # dejar en blanco
 
-    - item: Adaptability
+    - item: Problem-Solving
       link: # dejar en blanco
 
-    - item: Remote Culture
+    - item: Adaptability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I have a Software Enginnering degree at Universidad de Colima, My working experience runs around ruby on rails, react JS and more recently, solidus.
+    My name is Jorge Rodriguez I live in Colima, Colima Mexico.
 
-    My profesional career started at Bright Coders Academy, with a successful course on Ruby on Rails, a few months after i began working at MagmaLabs.
+    I graduated From Universidad de Colima with a Bachelor's degree in software engineering.
 
-    y actual role is RoR dev on MagmaLabs and mentoring at BrightCoders Academy. I‘m part of the Playas on tech community in Manzanillo and enjoy my time creating content and code for my personal brand.
+    I mainly focus on web development with React framework and in the backend with Ruby on Rails but I am willing to learn new technologies if require.
+
+    My main focus right now is to get into the industry as a trainee or junior software engineer and start getting experience working in a company.
+
+    Last but not least, I also like all the environment around the GNU/Linux stuff; the distros, commands, terminal, scripting, etc. And hopefully in the future also become a DevOps engineer, but first things firsts.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Software Enginnering
-    university: University of Colima
-    time: 2018 - 2022
+  - degree: Software Engineering
+    university: Universidad de Colima
+    time: 2010 - 2015
     details: |
-      Thesis topic: E-commerce development with Solidus open source for local startup.
-
-  - degree: High school
-    university: Bachillerato No. 8 UCOL
-    time: 2014 - 2017
-    details: |
-      Technical analyst programmer.
+      Graduated with a Bachelor's degree in software engineering in 2019.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Software Engineer
-    time: 2022 - current
-    company: MagmaLabs
-    details: |
-      Ruby on rails developer.
-
-  - role: Ruby on Rails Mentor
-    time: 2022 - current
+  - role: Ruby on Rails Developer
+    time: August 2022 - December 2022
     company: BrightCoders Academy
     details: |
-      My main role was solving student's doubts and teach good practices in software engineering
+      I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+      In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
+      The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
+      The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
 
-  - role: Ruby on Rails Web Developer
-    time: 2021 - 2021
-    company: Bright Coders Academy
-    details: |
-      I was part of a trainee program in which, together with a team of developers,
-      we received training on Ruby / Ruby on Rails, Git and Github, Agile methodology
-      and teamwork. We solved different challenges and developed a web project together.
+# Registra aquí los proyectos en los que has participado
+projects:
+  title: Projects
 
-  - role: Co-founder
-    time: 2019 - 2021
-    company: Untitled Clothes Brand
-    details: |
-      I'm in charge of making clothes, maintaining our web systems and carrying
-      out digital marketing campaigns on social networks for brand positioning.
+  assignments:
+    - title: Natours
+      link: "https://natours-jarf.netlify.app/"
+      tagline: "Natours is a landing page for a fictional company that sells tours in nature. This project is mainly focused on HTLM and CSS, in the Css part I used the SASS framework to keep organized the styles; I also use the parcel bundle to pack the project and have an optical performance."
+
+    - title: Forkify
+      link: "https://recetario-jarf.netlify.app/"
+      tagline: "Forkify is a recipe search engine in which you just type the name or part of the name of the dessert you wanted to cook and a list of recipes will show up. In this project, I used vanilla JS to consume an API and display the results according to the searched recipe."
+
+    - title: Guess the number
+      link: "#"
+      tagline: "This is a fun one, in this game you have to guess a number between 0 and 50, and you have unlimited tries. This game was with vanilla JS. Can you guess the number? "
+
+    - title: Alpha Blog
+      link: "http://jarf-alpha-blog-rails-6.herokuapp.com/"
+      tagline: "Alpha Blog is a based Ruby on Rails project in which you sign up and start creating articles. In this project, I put into practice the CRUD of Ruby on Rails, which also covers other main topics like working with the rails console, rails commands, Database relationships, User sessions, and admin sessions."
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -115,29 +116,29 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Github
+    - name: HTML
       level: 80%
 
-    - name: React JS
-      level: 70%
+    - name: CSS
+      level: 80%
 
-    - name: Linux
-      level: 70%
+    - name: Javascript
+      level: 80%
+
+    - name: SASS
+      level: 80%
+
+    - name: Ruby
+      level: 80%
 
     - name: Ruby on Rails
       level: 60%
 
-    - name: Ruby
+    - name: Git
       level: 60%
 
-    - name: Java Script
-      level: 50%
-
-    - name: Solidus
-      level: 50%
-
-    - name: Posgresql
-      level: 40%
+    - name: React JS
+      level: 60%
 
 # NO MODIFICAR
 footer: >
