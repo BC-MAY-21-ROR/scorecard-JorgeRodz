@@ -76,10 +76,10 @@ experiences:
     time: August 2022 - December 2022
     company: BrightCoders Academy
     details: |
-    I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
-    In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
-      - The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
-      - The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+      I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+      In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
+        - The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
+        - The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
 
 # Registra aquí los proyectos en los que has participado
 projects:
@@ -101,7 +101,6 @@ projects:
     - title: Alpha Blog
       link: "http://jarf-alpha-blog-rails-6.herokuapp.com/"
       tagline: "Alpha Blog is a based Ruby on Rails project in which you sign up and start creating articles. In this project, I put into practice the CRUD of Ruby on Rails, which also covers other main topics like working with the rails console, rails commands, Database relationships, User sessions, and admin sessions."
-
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
