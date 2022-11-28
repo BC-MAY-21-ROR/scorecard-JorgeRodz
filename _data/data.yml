@@ -56,11 +56,11 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    - My name is Jorge Rodriguez I live in Colima, Colima Mexico.
-    - I graduated From Universidad de Colima with a Bachelor's degree in software engineering.
-    - I mainly focus on web development with React framework and in the backend with Ruby on Rails but I am willing to learn new technologies if require.
-    - My main focus right now is to get into the industry as a trainee or junior software engineer and start getting experience working in a company.
-    - Last but not least, I also like all the environment around the GNU/Linux stuff; the distros, commands, terminal, scripting, etc. And hopefully in the future also become a DevOps engineer, but first things firsts.
+    My name is Jorge Rodriguez I live in Colima, Colima Mexico.
+    I graduated From Universidad de Colima with a Bachelor's degree in software engineering.
+    I mainly focus on web development with React framework and in the backend with Ruby on Rails but I am willing to learn new technologies if require.
+    My main focus right now is to get into the industry as a trainee or junior software engineer and start getting experience working in a company.
+    Last but not least, I also like all the environment around the GNU/Linux stuff; the distros, commands, terminal, scripting, etc. And hopefully in the future also become a DevOps engineer, but first things firsts.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -78,8 +78,8 @@ experiences:
     details: |
       I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
       In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
-        - The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
-        - The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+      The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
+      The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
 
 # Registra aquí los proyectos en los que has participado
 projects:
