@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Name LastName # Nombre y apellido
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jorge Alberto Rodriguez Flores # Nombre y apellido
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  email: jarf4321@gmail.com
+  phone: +52 312 943 57 76
+  website: https://jarf-portfolio.netlify.app/
+  linkedin: https://www.linkedin.com/in/jarf4321/
+  github: https://github.com/JorgeRodz
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: "@JarfDev"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -46,96 +43,66 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Self-taught
+      link: # dejar en blanco
+
+    - item: Problem-Solving
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    - My name is Jorge Rodriguez I live in Colima, Colima Mexico.
+    - I graduated From Universidad de Colima with a Bachelor's degree in software engineering.
+    - I mainly focus on web development with React framework and in the backend with Ruby on Rails but I am willing to learn new technologies if require.
+    - My main focus right now is to get into the industry as a trainee or junior software engineer and start getting experience working in a company.
+    - Last but not least, I also like all the environment around the GNU/Linux stuff; the distros, commands, terminal, scripting, etc. And hopefully in the future also become a DevOps engineer, but first things firsts.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Universidad de Colima
+    time: 2010 - 2015
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      - Graduated with a Bachelor's degree in software engineering in 2019.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby on Rails Developer
+    time: August 2022 - December 2022
+    company: BrightCoders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+    I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
+    In the remaining 2 months we developed an MVP(Minimal Valuable Product) which consists of two parts:
+      - The first one was focused on the Backend in which we build an API that sends data through JSON and all the related Backend stuff.
+      - The second one was the create all the views on the frontend to consume the API. I was part of a training group in which the first 2 months we learn the ruby programming language through exercises and programming challenges.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 # Registra aquí los proyectos en los que has participado
 projects:
-    title: Projects
-    
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Projects
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+  assignments:
+    - title: Natours
+      link: "https://natours-jarf.netlify.app/"
+      tagline: "Natours is a landing page for a fictional company that sells tours in nature. This project is mainly focused on HTLM and CSS, in the Css part I used the SASS framework to keep organized the styles; I also use the parcel bundle to pack the project and have an optical performance."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Forkify
+      link: "https://recetario-jarf.netlify.app/"
+      tagline: "Forkify is a recipe search engine in which you just type the name or part of the name of the dessert you wanted to cook and a list of recipes will show up. In this project, I used vanilla JS to consume an API and display the results according to the searched recipe."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Guess the number
+      link: "#"
+      tagline: "This is a fun one, in this game you have to guess a number between 0 and 50, and you have unlimited tries. This game was with vanilla JS. Can you guess the number? "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
+    - title: Alpha Blog
+      link: "http://jarf-alpha-blog-rails-6.herokuapp.com/"
+      tagline: "Alpha Blog is a based Ruby on Rails project in which you sign up and start creating articles. In this project, I put into practice the CRUD of Ruby on Rails, which also covers other main topics like working with the rails console, rails commands, Database relationships, User sessions, and admin sessions."
+
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -146,23 +113,29 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: Javascript
+      level: 80%
+
+    - name: SASS
+      level: 80%
+
+    - name: Ruby
+      level: 80%
+
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: Git
+      level: 60%
+
+    - name: React JS
+      level: 60%
 
 # NO MODIFICAR
 footer: >
